@@ -5,7 +5,7 @@ body {
 h1 {
   color: purple;
   margin-left: 300px;
-  animation: type 3s steps(22);
+  animation: type 7s steps(22);
   overflow: hidden;
   white-space: nowrap;
   font-family: Brush Script MT;
