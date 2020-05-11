@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: antiquewhite;
 }
 
 h1 {
@@ -58,10 +58,10 @@ div.reason{
     margin-left: 120px;
 }
 div.container{
-	background-color: lightblue;
+	background-color: antiquewhite;
 	height: 250px;
 	width: 300px;
-	border: 2px solid lightblue;
+	border: 2px solid antiquewhite;
 	margin-left: 350px;
 
 }
