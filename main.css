@@ -57,6 +57,11 @@ div.reason{
     padding: 50px;
     margin-left: 120px;
 }
+div.feeling{
+	font-family: Brush Script MT;
+	color: red;
+	font-size: 20px;
+}
 div.container{
 	background-color: lavender;
 	height: 250px;
